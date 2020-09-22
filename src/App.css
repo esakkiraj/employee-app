@@ -1,0 +1,8 @@
+.appContainer {
+  width: 75%;
+  margin: 20px auto;
+  display: flex;
+  flex-direction: column;
+  justify-items: center;
+  align-items: center;
+}
